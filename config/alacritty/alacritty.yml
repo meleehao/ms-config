@@ -4,7 +4,14 @@ window:
 
     background_opacity: 0.8
     live_config_reload: true
+    dimensions:
+      columns: 120
+      lines: 30
 
+shell:
+  program: C:/Program Files/PowerShell/7/pwsh.exe
+
+working_directory: C:\Users\meleehao\
 
 font:
 
@@ -15,7 +22,7 @@ font:
 
 #    family: Sarasa Term SC Semibold 
 
-    family: Sarasa Term TC 
+    family: Sarasa Term SC 
 
     style: Semibold Italic
 

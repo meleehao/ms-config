@@ -18,9 +18,9 @@ return {
 
   enable_tab_bar = false,
 
-  initial_cols = 110,
+  initial_cols = 115,
 
-  initial_rows = 30,
+  initial_rows = 35,
 
 --  wayland_enable = true,
 
